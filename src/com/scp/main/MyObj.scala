@@ -6,4 +6,5 @@ package com.scp.main
 object MyObj extends App {
   println("Placeholder")
   println("A Change")
+  println("Another Change")
 }
