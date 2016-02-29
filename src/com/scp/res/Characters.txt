@@ -1,0 +1,5 @@
+Phillip Fry,12,10,16
+Leela,15,12,10
+Bender Rodriguez,14,11,12
+John Zoidberg,12,16,8
+Hubert Farnsworth,8,20,11
